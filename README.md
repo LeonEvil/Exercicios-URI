@@ -28,6 +28,6 @@ Todos exercícios são encontrados [aqui](https://www.urionlinejudge.com.br/)
 | 1036 | Fórmula de Bhaskara | 4 |
 | 1037 | Intervalo | 5 |
 | 1038 | Lanche | 2 |
-
+| 1040 | Média 3 | 6 |
 ## Resoluções
 [JAVA](https://github.com/LeonEvil/Exercicios-URI/tree/master/JAVA)
