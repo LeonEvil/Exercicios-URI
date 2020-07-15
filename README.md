@@ -30,5 +30,7 @@ Todos exercícios são encontrados [aqui](https://www.urionlinejudge.com.br/)
 | 1038 | Lanche | 2 |
 | 1040 | Média 3 | 5 |
 | 1041 | Coordenadas de um Ponto | 3 |
+| 1042 | Sort Simples | 2 |
+| 1043 | 	Triângulo | 2 |
 ## Resoluções
 [JAVA](https://github.com/LeonEvil/Exercicios-URI/tree/master/JAVA)
