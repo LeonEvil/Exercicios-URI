@@ -32,5 +32,8 @@ Todos exercícios são encontrados [aqui](https://www.urionlinejudge.com.br/)
 | 1041 | Coordenadas de um Ponto | 3 |
 | 1042 | Sort Simples | 2 |
 | 1043 | 	Triângulo | 2 |
+| 1044 | Múltiplos | 2 |
+| 1045 | Tipos de Triângulos | 4 |
+| 1046 | Tempo de Jogo | 2 |
 ## Resoluções
 [JAVA](https://github.com/LeonEvil/Exercicios-URI/tree/master/JAVA)
