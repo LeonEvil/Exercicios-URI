@@ -35,5 +35,8 @@ Todos exercícios são encontrados [aqui](https://www.urionlinejudge.com.br/)
 | 1044 | Múltiplos | 2 |
 | 1045 | Tipos de Triângulos | 4 |
 | 1046 | Tempo de Jogo | 2 |
+| 1048 | Aumento de Salário | 2 |
+| 1049 | Animal | 3 |
+| 1050 | DDD | 2|
 ## Resoluções
 [JAVA](https://github.com/LeonEvil/Exercicios-URI/tree/master/JAVA)
