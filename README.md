@@ -37,6 +37,10 @@ Todos exercícios são encontrados [aqui](https://www.urionlinejudge.com.br/)
 | 1046 | Tempo de Jogo | 2 |
 | 1048 | Aumento de Salário | 2 |
 | 1049 | Animal | 3 |
-| 1050 | DDD | 2|
+| 1050 | DDD | 2 |
+| 1051 | Imposto de Renda | 2 |
+| 1052 | Mês | 2 |
+| 1059 | Números Pares | 1 |
+| 1060 | Números Positivos | 1 |
 ## Resoluções
 [JAVA](https://github.com/LeonEvil/Exercicios-URI/tree/master/JAVA)
