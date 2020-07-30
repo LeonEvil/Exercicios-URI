@@ -35,6 +35,7 @@ Todos exercícios são encontrados [aqui](https://www.urionlinejudge.com.br/)
 | 1044 | Múltiplos | 2 |
 | 1045 | Tipos de Triângulos | 4 |
 | 1046 | Tempo de Jogo | 2 |
+| 1047 | Tempo de Jogo com Minutos | 9 |
 | 1048 | Aumento de Salário | 2 |
 | 1049 | Animal | 3 |
 | 1050 | DDD | 2 |
@@ -42,5 +43,12 @@ Todos exercícios são encontrados [aqui](https://www.urionlinejudge.com.br/)
 | 1052 | Mês | 2 |
 | 1059 | Números Pares | 1 |
 | 1060 | Números Positivos | 1 |
+| 1061 | Tempo de um Evento | 3 |
+| 1064 | Positivos e Média | 2 |
+| 1065 | Pares entre Cinco Números | 1 |
+| 1066 | Pares, Ímpares, Positivos e Negativos | 1 |
+| 1067 | Números Ímpares | 2 |
+| 1070 | Seis Números Ímpares | 1 |
+
 ## Resoluções
 [JAVA](https://github.com/LeonEvil/Exercicios-URI/tree/master/JAVA)
