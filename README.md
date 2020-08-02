@@ -49,6 +49,12 @@ Todos exercícios são encontrados [aqui](https://www.urionlinejudge.com.br/)
 | 1066 | Pares, Ímpares, Positivos e Negativos | 1 |
 | 1067 | Números Ímpares | 2 |
 | 1070 | Seis Números Ímpares | 1 |
+| 1071 | Soma de Impares Consecutivos I | 2 |
+| 1072 | Intervalo 2 | 1 |
+| 1073 | Quadrado de Pares | 1 |
+| 1074 | Par ou Ímpar | 2 |
+| 1075 | Resto 2 | 2 |
+| 1078 | Tabuada | 1 |
 
 ## Resoluções
 [JAVA](https://github.com/LeonEvil/Exercicios-URI/tree/master/JAVA)
